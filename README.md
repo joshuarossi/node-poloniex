@@ -19,8 +19,8 @@ MIT, open source. See LICENSE file.
 
 ## Clone from GitHub
 
-    git clone https://github.com/sigwo/poloniex.git
-    cd poloniex
+    git clone https://github.com/sigwo/node-poloniex.git
+    cd node-poloniex
     npm install
 
 
