@@ -13,7 +13,7 @@ Repo home: [github.com/sigwo/poloniex][repo]
 
 MIT, open source. See LICENSE file.
 
-## Or clone from GitHub
+## Clone from GitHub
 
     git clone https://github.com/sigwo/poloniex.git
     cd poloniex
