@@ -1,11 +1,11 @@
 {
-  "name": "poloniex",
-  "version": "0.0.6",
+  "name": "node-poloniex",
+  "version": "0.1.0",
   "description": "Poloniex API client",
   "author": "Steven Grove <steven@sigwo.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "main": "poloniex.js",
+  "main": "lib/poloniex.js",
   "dependencies": {
     "nonce": "~1.0.3",
     "request": "~2.33.0"
@@ -16,17 +16,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sigwo/poloniex.git"
+    "url": "https://github.com/sigwo/node-poloniex.git"
   },
   "keywords": [
     "poloniex",
+    "nodejs",
     "bitcoin",
     "cryptocurrency",
     "exchange",
     "altcoins"
   ],
   "bugs": {
-    "url": "https://github.com/sigwo/poloniex/issues"
+    "url": "https://github.com/sigwo/node-poloniex/issues"
   },
   "engines": {
     "node": ">=0.10"
