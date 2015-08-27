@@ -1,4 +1,4 @@
-# poloniex
+# Poloniex
 
 A (unofficial) Node.js API client for the [Poloniex][poloniex].
 
