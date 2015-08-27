@@ -6,12 +6,16 @@ The client supports both public (unauthenticated) and private (authenticated) ca
 
 For private calls, the user secret is never exposed to other parts of the program or over the Web. The user key is sent as a header to the API, along with a signed request.
 
-Repo home: [github.com/sigwo/poloniex][repo]
+Repo home: [github.com/sigwo/node-poloniex][repo]
 
 
 ## License
 
 MIT, open source. See LICENSE file.
+
+## Install from npm
+
+    npm install node-poloniex
 
 ## Clone from GitHub
 
@@ -24,7 +28,7 @@ MIT, open source. See LICENSE file.
 
 In your app, require the module:
 
-    var Poloniex = require('poloniex');
+    var Poloniex = require('node-poloniex');
 
 If not installed via NPM, then provide the path to poloniex.js
 
@@ -50,7 +54,7 @@ The callback is passed two arguments:
 
 For the most up-to-date API documentation, see [poloniex.com/api][poloniex-api].
 
-[repo]: https://github.com/sigwo/poloniex
+[repo]: https://github.com/sigwo/node-poloniex
 [poloniex]: https://poloniex.com
 [poloniex-api]: https://poloniex.com/api
 [poloniex-keys]: https://poloniex.com/apiKeys
