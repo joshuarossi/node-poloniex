@@ -6,6 +6,8 @@ The client supports both public (unauthenticated) and private (authenticated) ca
 
 For private calls, the user secret is never exposed to other parts of the program or over the Web. The user key is sent as a header to the API, along with a signed request.
 
+Includes new margin trading API calls.
+
 Repo home: [github.com/sigwo/node-poloniex][repo]
 
 
